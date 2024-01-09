@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Hello. Welcome. Happy new year.
 Whoever you are, whatever you've done, **Jesus loves you!** [Check](https://andbible.github.io) it out yourself
 
