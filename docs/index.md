@@ -1,5 +1,5 @@
-# SchweGELBin's Website
-Hello. Welcome. Happy new year.
+# Hello. Welcome. Happy new year.
+Whoever you are, whatever you've done, **Jesus loves you!** [Check](https://andbible.github.io) it out yourself
 
 ## Check out my projects
 
