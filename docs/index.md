@@ -1,5 +1,6 @@
 ---
 layout: default
+title: My GitHub Page
 ---
 
 ## Hello. Welcome. Happy new year.
