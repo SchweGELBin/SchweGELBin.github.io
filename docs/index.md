@@ -6,8 +6,7 @@ title: My GitHub Page
 ## Hello. Welcome. Happy new year.
 Whoever you are, whatever you've done, **Jesus loves you!** [Check](https://www.bible.com/bible) it out yourself
 
-## Check out my projects
-- [GitHub](https://github.com/SchweGELBin)
+## [Check out my projects](https://github.com/SchweGELBin)
 
 ### Kernel
 For the Xiaomi Mi 9T / Redmi K20 (davinci)
