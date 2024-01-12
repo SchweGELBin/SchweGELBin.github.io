@@ -1,5 +1,5 @@
 title: My GitHub Page
 description: This is my page, where I host my GitHub related work.
 show_downloads: true
-github.is_project_page: true
+show_github: true
 theme: jekyll-theme-cayman
