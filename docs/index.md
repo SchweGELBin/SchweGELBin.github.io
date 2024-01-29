@@ -34,3 +34,6 @@ Download KernelSU Modules
 
 ### Minecraft
 - [Simple Mods](https://github.com/SchweGELBin/fabric-simple-mods)
+
+### Dotfiles
+- [HyprNix](https://github.com/SchweGELBin/HyprNix)
