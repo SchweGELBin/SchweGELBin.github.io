@@ -37,3 +37,4 @@ Download KernelSU Modules
 
 ### Dotfiles
 - [HyprNix](https://github.com/SchweGELBin/HyprNix)
+- [nix-config](https://github.com/SchweGELBin/nix-config)
