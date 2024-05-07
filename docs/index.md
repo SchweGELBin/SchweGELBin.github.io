@@ -17,8 +17,7 @@ For the Xiaomi Mi 9T / Redmi K20 (davinci)
 <br>
 
 Download Kernel
-- Get Latest [Kernel](https://github.com/SchweGELBin/action_kernel_milk_davinci/releases/latest/download/MilkKernel.zip)
-- Get Latest [Manager](https://github.com/SchweGELBin/action_kernel_milk_davinci/releases/latest/download/Manager.apk)
+- Get Latest [Files](https://github.com/SchweGELBin/action_kernel_milk_davinci/releases/latest)
 
 ### KernelSU Modules
 - [Template](https://github.com/SchweGELBin/KernelSU-Module-Template)
