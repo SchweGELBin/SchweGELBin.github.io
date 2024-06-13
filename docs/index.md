@@ -35,5 +35,9 @@ Download KernelSU Modules
 - [Simple Mods](https://github.com/SchweGELBin/fabric-simple-mods)
 
 ### Dotfiles
-- [HyprNix](https://github.com/SchweGELBin/HyprNix)
 - [nix-config](https://github.com/SchweGELBin/nix-config)
+
+### Rust
+- [rudoku](https://github.com/SchweGELBin/rudoku)
+- [catspeak](https://github.com/SchweGELBin/catspeak)
+- [byml-rs](https://github.com/SchweGELBin/byml-rs)
