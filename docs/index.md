@@ -5,6 +5,7 @@ title: My GitHub Page
 
 ## Hello. Welcome. Happy new year.
 Whoever you are, whatever you've done, **Jesus loves you!** [Check](https://www.bible.com/bible) it out yourself
+---
 
 ## Check out my projects
 [GitHub](https://github.com/SchweGELBin)
@@ -16,7 +17,6 @@ For the Xiaomi Mi 9T / Redmi K20 (davinci)
 | ---- | -------- |
 [Milk Kernel](https://github.com/SchweGELBin/kernel_milk_davinci) | [Latest](https://github.com/SchweGELBin/action_kernel_milk_davinci/releases/latest)
 [Action - Build Milk Kernel](https://github.com/SchweGELBin/action_kernel_milk_davinci) | [Latest](https://github.com/SchweGELBin/action_kernel_milk_davinci/releases/latest)
----
 
 ### KernelSU Modules
 | Repo | Download |
