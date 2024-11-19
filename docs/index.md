@@ -41,3 +41,7 @@ Download KernelSU Modules
 - [rudoku](https://github.com/SchweGELBin/rudoku)
 - [catspeak](https://github.com/SchweGELBin/catspeak)
 - [byml-rs](https://github.com/SchweGELBin/byml-rs)
+
+### Apps
+- [OpenBible](https://github.com/SchweGELBin/OpenBible) *(deprecated)*
+- [OpenBible2](https://github.com/SchweGELBin/OpenBible2)
