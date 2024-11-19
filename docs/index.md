@@ -21,9 +21,9 @@ For the Xiaomi Mi 9T / Redmi K20 (davinci)
 ### KernelSU Modules
 | Repo | Download |
 | ---- | -------- |
-[Template](https://github.com/SchweGELBin/KernelSU-Module-Template) | [Latest](https://github.com/SchweGELBin/KernelSU-Module-Template/releases/latest/download/KSU-Template.zip)
-[Hosts](https://github.com/SchweGELBin/hosts_kernelsu) | [Latest](https://github.com/SchweGELBin/hosts_kernelsu/releases/latest/download/KSU-Hosts.zip)
-[Simple-HideNavbar](https://github.com/SchweGELBin/Simple-HideNavBar) | [Latest](https://github.com/SchweGELBin/Simple-HideNavBar/releases/latest/download/Simple-HideNavBar.zip)
+| [Template](https://github.com/SchweGELBin/KernelSU-Module-Template) | [Latest](https://github.com/SchweGELBin/KernelSU-Module-Template/releases/latest/download/KSU-Template.zip) |
+| [Hosts](https://github.com/SchweGELBin/hosts_kernelsu) | [Latest](https://github.com/SchweGELBin/hosts_kernelsu/releases/latest/download/KSU-Hosts.zip) |
+| [Simple-HideNavbar](https://github.com/SchweGELBin/Simple-HideNavBar) | [Latest](https://github.com/SchweGELBin/Simple-HideNavBar/releases/latest/download/Simple-HideNavBar.zip) |
 
 ### Minecraft
 - [Simple Mods](https://github.com/SchweGELBin/fabric-simple-mods)
@@ -39,5 +39,5 @@ For the Xiaomi Mi 9T / Redmi K20 (davinci)
 ### Apps
 | Repo | Download |
 | ---- | -------- |
-[OpenBible](https://github.com/SchweGELBin/OpenBible) | *(deprecated)*
-[OpenBible2](https://github.com/SchweGELBin/OpenBible2) | [Latest](https://github.com/SchweGELBin/OpenBible2/releases/latest/download/app-release.apk)
+| [OpenBible](https://github.com/SchweGELBin/OpenBible) | *(deprecated)* |
+| [OpenBible2](https://github.com/SchweGELBin/OpenBible2) | [Latest](https://github.com/SchweGELBin/OpenBible2/releases/latest/download/app-release.apk) |
