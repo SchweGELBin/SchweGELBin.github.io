@@ -3,3 +3,4 @@ description: This is my page, where I host my GitHub related work.
 show_downloads: true
 show_github: true
 theme: jekyll-theme-cayman
+markdown: GFM
