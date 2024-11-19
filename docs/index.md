@@ -5,6 +5,7 @@ title: My GitHub Page
 
 ## Hello. Welcome. Happy new year.
 Whoever you are, whatever you've done, **Jesus loves you!** [Check](https://www.bible.com/bible) it out yourself
+
 ---
 
 ## Check out my projects
